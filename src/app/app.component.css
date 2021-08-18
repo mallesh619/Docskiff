@@ -1,0 +1,54 @@
+
+  .text-area {
+    border: 1px solid #d4d4d4;
+    width: calc(100% - 20px);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .array-list-div {
+    min-height: 30px;
+  }
+  
+  input:focus {
+    outline: none !important;
+  
+    border: none;
+  }
+  .input-field {
+    padding-top: 2px;
+    display: block;
+    width: 100%;
+  }
+  input {
+    outline: none !important;
+    border: none;
+  }
+  .list-item {
+    border: 1px solid #d4d4d4;
+    border-radius: 100px;
+    color: #111111;
+    padding: 3px 6px;
+  }
+  .array-list-div ul li {
+    float: left;
+    list-style-type: none;
+    margin-right: 5px;
+    margin-bottom: 4px;
+  }
+  
+  .array-list-div ul {
+    margin: 1px;
+    display: inline;
+    float: left;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  
+  .close {
+    color: #ff0000;
+    margin-left: 3px;
+    font-size: 10px;
+    cursor: pointer;
+  }
+  
